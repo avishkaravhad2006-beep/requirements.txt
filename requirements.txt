@@ -1,4 +1,4 @@
-streamlit
-pandas
-reportlab
-xlsxwriter
+streamlit==1.54.0
+pandas==3.0.0
+reportlab==4.4.10
+openpyxl==3.1.5
